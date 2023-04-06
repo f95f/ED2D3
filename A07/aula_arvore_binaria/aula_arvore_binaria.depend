@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1680742459 source:/home/aluno/ed2d3/a06/aula_arvore_binaria/main.c
+	<stdio.h>
+	<stdlib.h>
+	"binaryTree.h"
+
+1680740422 /home/aluno/ed2d3/a06/aula_arvore_binaria/binaryTree.h
+
+1680742138 source:/home/aluno/ed2d3/a06/aula_arvore_binaria/binaryTree.c
+	<stdio.h>
+	<stdlib.h>
+	"binaryTree.h"
+
+1680728250 source:c:\users\95fel\documents\if\s3\ed2s3\a07\aula_arvore_binaria\binarytree.c
+	<stdio.h>
+	<stdlib.h>
+	"binaryTree.h"
+
+1680728250 c:\users\95fel\documents\if\s3\ed2s3\a07\aula_arvore_binaria\binarytree.h
+
+1680753619 source:c:\users\95fel\documents\if\s3\ed2s3\a07\aula_arvore_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"binaryTree.h"
+

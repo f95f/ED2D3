@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680754242 source:c:\users\95fel\documents\if\s3\ed2s3\a07\aula_arvore_binaria_windows\main.c
+	<stdio.h>
+	<stdlib.h>
+	"binaryTree.h"
+	<locale.h>
+
+1680728250 c:\users\95fel\documents\if\s3\ed2s3\a07\aula_arvore_binaria_windows\binarytree.h
+
+1680728250 source:c:\users\95fel\documents\if\s3\ed2s3\a07\aula_arvore_binaria_windows\binarytree.c
+	<stdio.h>
+	<stdlib.h>
+	"binaryTree.h"
+
