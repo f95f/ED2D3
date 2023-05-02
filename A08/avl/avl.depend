@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681340294 source:/home/aluno/ed3/avl/main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+
+1681338968 /home/aluno/ed3/avl/avl.h
+
+1681341053 source:/home/aluno/ed3/avl/avl.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+

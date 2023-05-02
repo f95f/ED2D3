@@ -1,0 +1,21 @@
+ >>> aula 06 <<<
+ >
+ > Revisar
+	Sorts:
+	- Insertion
+	- Selection
+	- Bubble
+	- Shell 
+	- Merge
+	- Heap
+	- Quick
+	- Quick (3-Way)
+	- Radix (LSD e MSD)
+	- Bead
+	- Tim
+	- Bogo
+	- Counting
+ > [link] https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj46sXvyvD9AhVLCbkGHbfTA88QwqsBegQITRAF&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl7-f9gS8VOs&usg=AOvVaw2CNrg8u89RjDyK9tGFrcwc 
+ > [link] https://www.toptal.com/developers/sorting-algorithms
+
+ >  
