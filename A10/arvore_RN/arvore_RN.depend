@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1683759864 source:/home/aluno/ed3/arvoreRN/arvore_RN/main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+
+1683759769 /home/aluno/ed3/arvoreRN/arvore_RN/arvoreRN.h
+
+1683759821 source:/home/aluno/ed3/arvoreRN/arvore_RN/arvoreRN.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+
+1684365829 source:/home/aluno/ed3/arvore_RN/main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+
+1684365534 /home/aluno/ed3/arvore_RN/arvoreRN.h
+
+1684365785 source:/home/aluno/ed3/arvore_RN/arvoreRN.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+
+1685570028 source:c:\users\95fel\onedrive\documentos\if\ed2s3\a10\arvore_rn\arvorern.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+
+1685570028 c:\users\95fel\onedrive\documentos\if\ed2s3\a10\arvore_rn\arvorern.h
+
+1685570028 source:c:\users\95fel\onedrive\documentos\if\ed2s3\a10\arvore_rn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+

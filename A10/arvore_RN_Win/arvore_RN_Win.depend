@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685570028 source:c:\users\95fel\onedrive\documentos\if\ed2s3\a10\arvore_rn\arvorern.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+
+1685570028 c:\users\95fel\onedrive\documentos\if\ed2s3\a10\arvore_rn\arvorern.h
+
+1686177605 source:c:\users\95fel\onedrive\documentos\if\ed2s3\a10\arvore_rn_win\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreRN.h"
+
+1685570028 c:\users\95fel\onedrive\documentos\if\ed2s3\a10\arvore_rn_win\arvorern.h
+

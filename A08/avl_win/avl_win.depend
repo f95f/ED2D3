@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1686181679 source:c:\users\95fel\onedrive\documentos\if\ed2s3\a08\avl_win\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+	<locale.h>
+
+1686180170 c:\users\95fel\onedrive\documentos\if\ed2s3\a08\avl_win\avl.h
+
+1686180357 source:c:\users\95fel\onedrive\documentos\if\ed2s3\a08\avl_win\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+
